@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 2px;
+    padding-left:5px;
+}
+html {
+    scroll-behavior: smooth;
+}
+.col-4,.col-3{
+    border: 1px #050fa1 solid;
+    
+}
+
+.image{
+    padding-left:20px;
+    height:100px;
+    mix-blend-mode: multiply;
+}
+#keys>a{
+    margin: 5px;
+    text-decoration: none;
+    border-top: 3px transparent solid;
+    font-size: large;
+}
+
+#keys>a:hover{
+    border-top: 3px green solid;
+    font-size: larger;
+}
+.title{
+    padding-top: 25px;
+    color: black;
+    font-size: large;
+}
+.body{
+    padding-top: 5px;
+}
+button{
+    height:40px;
+    width:45px;
+}
+
+.form-outline{
+    
+    height:50px;
+}
+.input-group{
+    padding-top: 6px;
+}
+.founder{
+    max-width:230px;
+    max-height:fit-content;
+}
+.B-D-Barve{
+    
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.overview{
+    border: 1px black solid;
+}
+
+.footer{
+    border: 1px solid black;
+}
+#follow-us{
+    /* border: 1px solid black; */
+    display: block;
+}
+
+
+.contact{
+    display: block;
+}
+
+.location-container {
+    width: 500px;
+    height: 250px; /* Adjust as needed */
+    overflow: hidden;
+}
+
+.location-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.instagram-icon,.linked-icon,.mail-icon {
+    color: rgb(68, 67, 67); /* Initial color */
+  }
+  
+  /* Define color change on hover */
+  .instagram-icon:hover {
+    color: red; /* Color change on hover */
+  }
+  .linked-icon :hover{
+    color: blue;
+  }
+  .mail-icon:hover{
+    color: green;
+  }

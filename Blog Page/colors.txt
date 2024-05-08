@@ -1,0 +1,14 @@
+background colors -: 
+
+Soft Blue: #B3E5FC
+Light Green: #DCEDC8
+Pastel Pink: #F8BBD0
+Lavender: #E1BEE7
+Coral: #FFCCBC
+
+header -: #079098
+
+next 2 -: #FCD19C
+
+Actual Block -: #FFE8A3
+
